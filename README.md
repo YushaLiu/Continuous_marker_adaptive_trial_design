@@ -1,4 +1,4 @@
-# Continuous_marker_adaptive_trial_design
+# Continuous marker adaptive trial design
 This repository provides the R code to implement our proposed Bayesian adaptive design with continuous biomarkers.
 
 
