@@ -18,3 +18,6 @@ The function Sim_Shell_Exponential.R is the top-level function for users to <br 
 5) The R code to tabulate the simulation results in the supplement for each scenario, as presented in Table S2, is saved in the file settingx_K_2_table.R, where x=1,2,4,9.
 
 
+
+### Dependency on other R packages
+The following R packages need to be installed before running our proposed BCM design: splines, MASS, survival, Matrix, coda.
